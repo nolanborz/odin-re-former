@@ -1,5 +1,7 @@
 # README
 
+This is a forms practice exercise which is part of The Odin Project.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
